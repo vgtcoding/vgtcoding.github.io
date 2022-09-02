@@ -1,0 +1,9 @@
+html {
+  background-color: gray;
+}
+
+#titolo {
+  color: white;
+  font-size: 50px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
