@@ -1,9 +1,13 @@
 html {
   background-color: gray;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 #titolo {
   color: white;
   font-size: 50px;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+#email {
+  color: white;
 }
